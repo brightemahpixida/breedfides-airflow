@@ -1,0 +1,1 @@
+curl -H "Content-type: application/json" -H "Accept: application/json" -X POST --user "admin:admin" "localhost/api/v1/dags/DAGNAME/dagRuns" -d '{"conf": {}}'

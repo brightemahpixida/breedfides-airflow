@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name":"fetch_wcs_tif",
+            "type":"python",
+            "request":"launch",
+            "program":"/home/hoedt/airflow/.venv/bin/airflow",
+            "preLaunchTask": "import-airflow-variables",
+            "console": "integratedTerminal",
+            "env": {
+                "AIRFLOW_HOME": "${workspaceFolder}",
+                "AIRFLOW__CORE__LOAD_EXAMPLES": "False",
+                "AIRFLOW__CORE__DAGS_FOLDER": "${workspaceFolder}/dags",
+                "AIRFLOW__CORE__EXECUTOR": "SequentialExecutor"
+            },
+            "args":[
+                "dags",
+                "test",
+                "fetch_wcs_tif",
+                "2022-09-10"
+            ]
+        }
+    ]
+}

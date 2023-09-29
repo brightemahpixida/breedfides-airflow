@@ -1,0 +1,12 @@
+{
+    "dag_run_id": "fetch_wfs_json_curl_with_conf_test",
+    "logical_date": "2019-08-24T14:15:22Z",
+    "execution_date": "2019-08-24T14:15:22Z",
+    "conf": {
+            "wfs_url": "https://tisdar.thuenen.de/geoserver/ows",
+            "typename": "geonode:nsg_2018",
+            "bbox" :[3426647, 5949995, 3483101, 6005329],
+            "srsname" : "urn:x-ogc:def:crs:EPSG:5677"
+        },
+    "note": "posted via curl"
+  }

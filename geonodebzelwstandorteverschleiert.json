@@ -1,0 +1,585 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "bze_lw_standorte_verschleiert.1117",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    652314.0907,
+                    5757444.939
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": 1117,
+                "pointid": 1974,
+                "bundesland": "ST",
+                "probenahme_monat": 9,
+                "probenahme_jahr": 2014,
+                "xcoord": 652314.0907,
+                "ycoord": 5757444.939,
+                "bodenklimaraum_name": "Lößböden in der Ackerebene (Ost)",
+                "landnutzung": "A",
+                "bze_moor": 0,
+                "hauptbodentyp": "TT",
+                "bodenvartypsub": "TTn",
+                "grundwastufe": "0",
+                "grundwastand": ">200",
+                "moormaechtigkeit": 0,
+                "torfmaechtigkeit": 0,
+                "neigung": "N1",
+                "exposition": "SS",
+                "woelbung": "XX",
+                "reliefformtyp": "H",
+                "lageimrelief": "M",
+                "kv_0_30": 75.85,
+                "kv_30_100": "52.51",
+                "profile_picture": "https://tisdar.thuenen.de/webspace/bze_lw/bze_profilbilder/ST_1974_Z_1.GIF"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bze_lw_standorte_verschleiert.1118",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    657929.0322,
+                    5754855.691
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": 1118,
+                "pointid": 1975,
+                "bundesland": "ST",
+                "probenahme_monat": 1,
+                "probenahme_jahr": 2015,
+                "xcoord": 657929.0322,
+                "ycoord": 5754855.691,
+                "bodenklimaraum_name": "Lößböden in der Ackerebene (Ost)",
+                "landnutzung": "A",
+                "bze_moor": 0,
+                "hauptbodentyp": "RZ",
+                "bodenvartypsub": "BBc-RZ",
+                "grundwastufe": "0",
+                "grundwastand": ">200",
+                "moormaechtigkeit": 0,
+                "torfmaechtigkeit": 0,
+                "neigung": "N2.2",
+                "exposition": "SW",
+                "woelbung": "XX",
+                "reliefformtyp": "H",
+                "lageimrelief": "U",
+                "kv_0_30": 61.04,
+                "kv_30_100": "28.94",
+                "profile_picture": "https://tisdar.thuenen.de/webspace/bze_lw/bze_profilbilder/ST_1975_Z_1.GIF"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bze_lw_standorte_verschleiert.1119",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    669273.1035,
+                    5752354.47
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": 1119,
+                "pointid": 1976,
+                "bundesland": "ST",
+                "probenahme_monat": 8,
+                "probenahme_jahr": 2014,
+                "xcoord": 669273.1035,
+                "ycoord": 5752354.47,
+                "bodenklimaraum_name": "Lößböden in der Ackerebene (Ost)",
+                "landnutzung": "A",
+                "bze_moor": 0,
+                "hauptbodentyp": "AT",
+                "bodenvartypsub": "GG-AT",
+                "grundwastufe": "GWS4",
+                "grundwastand": "45",
+                "moormaechtigkeit": 0,
+                "torfmaechtigkeit": 0,
+                "neigung": "N0",
+                "exposition": null,
+                "woelbung": "GG",
+                "reliefformtyp": "V",
+                "lageimrelief": "Z",
+                "kv_0_30": 104.98,
+                "kv_30_100": "26.85",
+                "profile_picture": "https://tisdar.thuenen.de/webspace/bze_lw/bze_profilbilder/ST_1976_Z_1.GIF"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bze_lw_standorte_verschleiert.1120",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    682955.6698,
+                    5756430.398
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": 1120,
+                "pointid": 1978,
+                "bundesland": "ST",
+                "probenahme_monat": 8,
+                "probenahme_jahr": 2014,
+                "xcoord": 682955.6698,
+                "ycoord": 5756430.398,
+                "bodenklimaraum_name": "Lößböden in der Ackerebene (Ost)",
+                "landnutzung": "A",
+                "bze_moor": 0,
+                "hauptbodentyp": "TT",
+                "bodenvartypsub": "TTn",
+                "grundwastufe": "0",
+                "grundwastand": ">200",
+                "moormaechtigkeit": 0,
+                "torfmaechtigkeit": 0,
+                "neigung": "N1",
+                "exposition": "NN",
+                "woelbung": "XX",
+                "reliefformtyp": "V",
+                "lageimrelief": "Z",
+                "kv_0_30": 66.76,
+                "kv_30_100": "61.79",
+                "profile_picture": "https://tisdar.thuenen.de/webspace/bze_lw/bze_profilbilder/ST_1978_Z_1.GIF"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bze_lw_standorte_verschleiert.1161",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    654329.6543,
+                    5745759.137
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": 1161,
+                "pointid": 2049,
+                "bundesland": "ST",
+                "probenahme_monat": 11,
+                "probenahme_jahr": 2014,
+                "xcoord": 654329.6543,
+                "ycoord": 5745759.137,
+                "bodenklimaraum_name": "Lößböden in der Ackerebene (Ost)",
+                "landnutzung": "A",
+                "bze_moor": 0,
+                "hauptbodentyp": "RZ",
+                "bodenvartypsub": "BB-RZ",
+                "grundwastufe": "0",
+                "grundwastand": ">200",
+                "moormaechtigkeit": 0,
+                "torfmaechtigkeit": 0,
+                "neigung": "N0.2",
+                "exposition": "NE",
+                "woelbung": "GV",
+                "reliefformtyp": "KS",
+                "lageimrelief": "K",
+                "kv_0_30": 62.19,
+                "kv_30_100": "30.64",
+                "profile_picture": "https://tisdar.thuenen.de/webspace/bze_lw/bze_profilbilder/ST_2049_Z_1.GIF"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bze_lw_standorte_verschleiert.1162",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    657144.4731,
+                    5746697.801
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": 1162,
+                "pointid": 2050,
+                "bundesland": "ST",
+                "probenahme_monat": 10,
+                "probenahme_jahr": 2014,
+                "xcoord": 657144.4731,
+                "ycoord": 5746697.801,
+                "bodenklimaraum_name": "Lößböden in der Ackerebene (Ost)",
+                "landnutzung": "A",
+                "bze_moor": 0,
+                "hauptbodentyp": "TC",
+                "bodenvartypsub": "TC",
+                "grundwastufe": "0",
+                "grundwastand": "NA",
+                "moormaechtigkeit": 0,
+                "torfmaechtigkeit": 0,
+                "neigung": "N2.2",
+                "exposition": "WW",
+                "woelbung": "XG",
+                "reliefformtyp": "KHF",
+                "lageimrelief": "R",
+                "kv_0_30": 85.6,
+                "kv_30_100": "36.49",
+                "profile_picture": "https://tisdar.thuenen.de/webspace/bze_lw/bze_profilbilder/ST_2050_Z_1.GIF"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bze_lw_standorte_verschleiert.1163",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    666296.9848,
+                    5748220.109
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": 1163,
+                "pointid": 2051,
+                "bundesland": "ST",
+                "probenahme_monat": 8,
+                "probenahme_jahr": 2014,
+                "xcoord": 666296.9848,
+                "ycoord": 5748220.109,
+                "bodenklimaraum_name": "Lößböden in der Ackerebene (Ost)",
+                "landnutzung": "A",
+                "bze_moor": 0,
+                "hauptbodentyp": "TT",
+                "bodenvartypsub": "TTn",
+                "grundwastufe": "0",
+                "grundwastand": ">200",
+                "moormaechtigkeit": 0,
+                "torfmaechtigkeit": 0,
+                "neigung": "N0.2",
+                "exposition": "SS",
+                "woelbung": "XX",
+                "reliefformtyp": "KS",
+                "lageimrelief": "T",
+                "kv_0_30": 79.18,
+                "kv_30_100": "75.76",
+                "profile_picture": "https://tisdar.thuenen.de/webspace/bze_lw/bze_profilbilder/ST_2051_Z_1.GIF"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bze_lw_standorte_verschleiert.1164",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    674385.2759,
+                    5749145.758
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": 1164,
+                "pointid": 2052,
+                "bundesland": "ST",
+                "probenahme_monat": 2,
+                "probenahme_jahr": 2015,
+                "xcoord": 674385.2759,
+                "ycoord": 5749145.758,
+                "bodenklimaraum_name": "Lößböden in der Ackerebene (Ost)",
+                "landnutzung": "A",
+                "bze_moor": 0,
+                "hauptbodentyp": "TT",
+                "bodenvartypsub": "sTT",
+                "grundwastufe": "0",
+                "grundwastand": ">200",
+                "moormaechtigkeit": 0,
+                "torfmaechtigkeit": 0,
+                "neigung": "N2.2",
+                "exposition": "NE",
+                "woelbung": "XX",
+                "reliefformtyp": "KH",
+                "lageimrelief": "K",
+                "kv_0_30": 62.07,
+                "kv_30_100": "39.37",
+                "profile_picture": "https://tisdar.thuenen.de/webspace/bze_lw/bze_profilbilder/ST_2052_Z_1.GIF"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bze_lw_standorte_verschleiert.1165",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    685562.8716,
+                    5745678.885
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": 1165,
+                "pointid": 2053,
+                "bundesland": "ST",
+                "probenahme_monat": 1,
+                "probenahme_jahr": 2015,
+                "xcoord": 685562.8716,
+                "ycoord": 5745678.885,
+                "bodenklimaraum_name": "Lößböden in der Ackerebene (Ost)",
+                "landnutzung": "A",
+                "bze_moor": 0,
+                "hauptbodentyp": "RZ",
+                "bodenvartypsub": "RZn",
+                "grundwastufe": "0",
+                "grundwastand": ">200",
+                "moormaechtigkeit": 0,
+                "torfmaechtigkeit": 0,
+                "neigung": "N1",
+                "exposition": "NW",
+                "woelbung": "VX",
+                "reliefformtyp": "H",
+                "lageimrelief": "M",
+                "kv_0_30": 77.14,
+                "kv_30_100": "8.04",
+                "profile_picture": "https://tisdar.thuenen.de/webspace/bze_lw/bze_profilbilder/ST_2053_Z_1.GIF"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bze_lw_standorte_verschleiert.1206",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    643567.8564,
+                    5736711.162
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": 1206,
+                "pointid": 2122,
+                "bundesland": "ST",
+                "probenahme_monat": 9,
+                "probenahme_jahr": 2014,
+                "xcoord": 643567.8564,
+                "ycoord": 5736711.162,
+                "bodenklimaraum_name": "Harz",
+                "landnutzung": "A",
+                "bze_moor": 0,
+                "hauptbodentyp": "RZ",
+                "bodenvartypsub": "kRZ",
+                "grundwastufe": "0",
+                "grundwastand": ">200",
+                "moormaechtigkeit": 0,
+                "torfmaechtigkeit": 0,
+                "neigung": "N2.2",
+                "exposition": "SS",
+                "woelbung": "XX",
+                "reliefformtyp": "H",
+                "lageimrelief": "U",
+                "kv_0_30": 50.62,
+                "kv_30_100": "34.97",
+                "profile_picture": "https://tisdar.thuenen.de/webspace/bze_lw/bze_profilbilder/ST_2122_Z_1.GIF"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bze_lw_standorte_verschleiert.1207",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    651638.7893,
+                    5741155.106
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": 1207,
+                "pointid": 2123,
+                "bundesland": "ST",
+                "probenahme_monat": 9,
+                "probenahme_jahr": 2014,
+                "xcoord": 651638.7893,
+                "ycoord": 5741155.106,
+                "bodenklimaraum_name": "Lößböden in der Ackerebene (Ost)",
+                "landnutzung": "A",
+                "bze_moor": 0,
+                "hauptbodentyp": "TT",
+                "bodenvartypsub": "TTn",
+                "grundwastufe": "0",
+                "grundwastand": ">200",
+                "moormaechtigkeit": 0,
+                "torfmaechtigkeit": 0,
+                "neigung": "N2.1",
+                "exposition": "NN",
+                "woelbung": "GG",
+                "reliefformtyp": "H",
+                "lageimrelief": "M",
+                "kv_0_30": 61.35,
+                "kv_30_100": "56.27",
+                "profile_picture": "https://tisdar.thuenen.de/webspace/bze_lw/bze_profilbilder/ST_2123_Z_1.GIF"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bze_lw_standorte_verschleiert.1208",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    661707.0201,
+                    5737420.858
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": 1208,
+                "pointid": 2124,
+                "bundesland": "ST",
+                "probenahme_monat": 2,
+                "probenahme_jahr": 2015,
+                "xcoord": 661707.0201,
+                "ycoord": 5737420.858,
+                "bodenklimaraum_name": "Lößböden in der Ackerebene (Ost)",
+                "landnutzung": "G",
+                "bze_moor": 0,
+                "hauptbodentyp": "AB",
+                "bodenvartypsub": "ABn",
+                "grundwastufe": "GWS5",
+                "grundwastand": "NA",
+                "moormaechtigkeit": 0,
+                "torfmaechtigkeit": 0,
+                "neigung": "N0.1",
+                "exposition": null,
+                "woelbung": "GG",
+                "reliefformtyp": "T",
+                "lageimrelief": "T",
+                "kv_0_30": 79,
+                "kv_30_100": "80.64",
+                "profile_picture": "https://tisdar.thuenen.de/webspace/bze_lw/bze_profilbilder/ST_2124_Z_1.GIF"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bze_lw_standorte_verschleiert.1209",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    666299.0202,
+                    5740582.266
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": 1209,
+                "pointid": 2125,
+                "bundesland": "ST",
+                "probenahme_monat": 10,
+                "probenahme_jahr": 2014,
+                "xcoord": 666299.0202,
+                "ycoord": 5740582.266,
+                "bodenklimaraum_name": "Lößböden in der Ackerebene (Ost)",
+                "landnutzung": "A",
+                "bze_moor": 1,
+                "hauptbodentyp": "ZZ",
+                "bodenvartypsub": ">e.rKV/HN",
+                "grundwastufe": "GWS4",
+                "grundwastand": "96",
+                "moormaechtigkeit": 200,
+                "torfmaechtigkeit": 160,
+                "neigung": "N0",
+                "exposition": null,
+                "woelbung": "GG",
+                "reliefformtyp": "T",
+                "lageimrelief": "Z",
+                "kv_0_30": 345.78,
+                "kv_30_100": "791.78",
+                "profile_picture": "https://tisdar.thuenen.de/webspace/bze_lw/bze_profilbilder/ST_2125_Z_1.GIF"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bze_lw_standorte_verschleiert.1210",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    678119.8908,
+                    5739726.504
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": 1210,
+                "pointid": 2126,
+                "bundesland": "ST",
+                "probenahme_monat": 8,
+                "probenahme_jahr": 2014,
+                "xcoord": 678119.8908,
+                "ycoord": 5739726.504,
+                "bodenklimaraum_name": "Lößböden in der Ackerebene (Ost)",
+                "landnutzung": "A",
+                "bze_moor": 0,
+                "hauptbodentyp": "RZ",
+                "bodenvartypsub": "RZn",
+                "grundwastufe": "0",
+                "grundwastand": ">200",
+                "moormaechtigkeit": 0,
+                "torfmaechtigkeit": 0,
+                "neigung": "N2",
+                "exposition": "SE",
+                "woelbung": "XX",
+                "reliefformtyp": "H",
+                "lageimrelief": "O",
+                "kv_0_30": 61.84,
+                "kv_30_100": "21.23",
+                "profile_picture": "https://tisdar.thuenen.de/webspace/bze_lw/bze_profilbilder/ST_2126_Z_1.GIF"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "bze_lw_standorte_verschleiert.1211",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    685039.6389,
+                    5737498.794
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "id": 1211,
+                "pointid": 2127,
+                "bundesland": "ST",
+                "probenahme_monat": 9,
+                "probenahme_jahr": 2014,
+                "xcoord": 685039.6389,
+                "ycoord": 5737498.794,
+                "bodenklimaraum_name": "Lößböden in der Ackerebene (Ost)",
+                "landnutzung": "A",
+                "bze_moor": 0,
+                "hauptbodentyp": "TT",
+                "bodenvartypsub": "TTn",
+                "grundwastufe": "0",
+                "grundwastand": ">200",
+                "moormaechtigkeit": 0,
+                "torfmaechtigkeit": 0,
+                "neigung": "N1",
+                "exposition": "SS",
+                "woelbung": "XG",
+                "reliefformtyp": "H",
+                "lageimrelief": "M",
+                "kv_0_30": 66.57,
+                "kv_30_100": "72.63",
+                "profile_picture": "https://tisdar.thuenen.de/webspace/bze_lw/bze_profilbilder/ST_2127_Z_1.GIF"
+            }
+        }
+    ],
+    "totalFeatures": 15,
+    "numberMatched": 15,
+    "numberReturned": 15,
+    "timeStamp": "2023-09-29T20:39:01.066Z",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::25832"
+        }
+    }
+}
